@@ -5,6 +5,7 @@ import Work4 from "../../assets/work4.png"
 import Work5 from "../../assets/work5.png"
 import Work6 from "../../assets/work6.png"
 import shopify from "../../assets/shopify.png"
+import work8 from "../..//assets/work8.png"
 export const projectsData = [
 
     {
@@ -20,7 +21,7 @@ export const projectsData = [
         image:Work2,
         title:'Last resort recovery',
         category:'Wordpress',
-        link:'https://staging-lastresortrecovery-staging.kinsta.cloud/',
+        link:'https://www.lastresortrecovery.com/',
     },
     {
         id:3,
@@ -57,6 +58,13 @@ export const projectsData = [
         title:'Direct Electric Bike',
         category:'Shopify',
         link:"https://directelectricbikes.com",
+    },
+    {
+        id:8,
+        image:work8,
+        title:'Long Branch Recovery',
+        category:'Wordpress',
+        link:"https://longbranchrecovery.com/",
     }
 ];
 
