@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/kartik/static/css/main.28dd5970.css",
+    "main.js": "/kartik/static/js/main.d4869209.js",
+    "static/js/787.567a5f35.chunk.js": "/kartik/static/js/787.567a5f35.chunk.js",
+    "static/media/shopify.png": "/kartik/static/media/shopify.f68f1cc1edb1466cabf7.png",
+    "static/media/work5.png": "/kartik/static/media/work5.68d0b107939b8d53363e.png",
+    "static/media/work8.png": "/kartik/static/media/work8.e9b12036f33b7cf89982.png",
+    "static/media/work6.png": "/kartik/static/media/work6.e01d76be6c92b8125245.png",
+    "static/media/work3.png": "/kartik/static/media/work3.f6bf219f555bdee20ff2.png",
+    "static/media/work2.png": "/kartik/static/media/work2.a44ab6303adcf1b2c927.png",
+    "static/media/work4.png": "/kartik/static/media/work4.1a5a49a03a0756129c60.png",
+    "static/media/work1.png": "/kartik/static/media/work1.c7f1a46e01807b4a004f.png",
+    "static/media/kartik-malvi.png": "/kartik/static/media/kartik-malvi.5a99b051105c8715e9f1.png",
+    "static/media/testimonial3.png": "/kartik/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/testimonial2.png": "/kartik/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/Kartik-Cv.pdf": "/kartik/static/media/Kartik-Cv.1674149ac2d1fc0f9b40.pdf",
+    "static/media/testimonial1.png": "/kartik/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/kartik/index.html",
+    "main.28dd5970.css.map": "/kartik/static/css/main.28dd5970.css.map",
+    "main.d4869209.js.map": "/kartik/static/js/main.d4869209.js.map",
+    "787.567a5f35.chunk.js.map": "/kartik/static/js/787.567a5f35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28dd5970.css",
+    "static/js/main.d4869209.js"
+  ]
+}
