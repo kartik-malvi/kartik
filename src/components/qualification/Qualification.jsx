@@ -74,7 +74,7 @@ const Qualification = () => {
               <div>
                 <h3 className="qualification__tittle">Wordpress</h3>
                 <span className="qualification__subtitle">
-                  Self
+                  Online Resources
                 </span>
                 <div className="qualification__calender">
                   <i className="uil uil-calendar-alt"></i>
@@ -87,7 +87,7 @@ const Qualification = () => {
               <div>
                 <h3 className="qualification__tittle">Web Design</h3>
                 <span className="qualification__subtitle">
-                  Self
+                Online Resources
                 </span>
                 <div className="qualification__calender">
                   <i className="uil uil-calendar-alt"></i>
@@ -111,7 +111,7 @@ const Qualification = () => {
               <div>
                 <h3 className="qualification__tittle">Web Development</h3>
                 <span className="qualification__subtitle">
-                  Self
+                Online Resources
                 </span>
                 <div className="qualification__calender">
                   <i className="uil uil-calendar-alt"></i>

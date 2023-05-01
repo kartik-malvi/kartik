@@ -12,7 +12,7 @@ export const projectsData = [
         id:1,
         image:Work1,
         title:'Vim & Vigour',
-        category:'Development',
+        category:'Code',
         link:'https://kartik-malvi.github.io/vim-vigour/',
        
     },
@@ -42,7 +42,7 @@ export const projectsData = [
         id:5,
         image:Work5,
         title:'The Finintellect',
-        category:'Development',
+        category:'Code',
 
     },
     {
@@ -77,7 +77,7 @@ export const projectsNav = [
         name: 'Wordpress',
     },
     {
-        name: 'Development',
+        name: 'Code',
     },
     {
         name: 'Shopify',
